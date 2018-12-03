@@ -1,4 +1,3 @@
-require 'set'
 # how many had double or triple copies of letters in
 doubles = 0
 triples = 0
